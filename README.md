@@ -33,7 +33,14 @@ support Windows 10 - Windows11
 
 
 # Undate Log
+### SKT64 v1.2
+Add Remove IOCTL Hook
 ### SKT64 v1.1
 Add View Unloaded Drivers
 ### SKT64 v1.0
 The first public version
+
+# Customized versions(Paid services)
+1. SKT64 without VMP version
+2. Partial source code of SKT64
+3. The complete source code of the SKT64

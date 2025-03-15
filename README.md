@@ -4,7 +4,7 @@ It's a completely free tool
 support Windows 10 - Windows11
 
 # Features
-### View Process
+### Process
 ![image](https://github.com/user-attachments/assets/21cbe407-218d-4ab6-a8c5-76d095ecd61b)
 1. View Prcess
 2. Terminate Process
@@ -14,4 +14,4 @@ support Windows 10 - Windows11
 6. Suspend/Resume Process
 7. Hide Process
 8. Set Process PPL
-
+![image](https://github.com/user-attachments/assets/ca31f5c6-2927-46a3-8215-a3b69e576918)

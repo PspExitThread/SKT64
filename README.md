@@ -15,3 +15,11 @@ support Windows 10 - Windows11
 7. Hide Process
 8. Set Process PPL
 ![image](https://github.com/user-attachments/assets/ca31f5c6-2927-46a3-8215-a3b69e576918)
+
+### Kernel-Module
+![image](https://github.com/user-attachments/assets/b1d41b57-7f46-40fe-a3fc-6528f0eae22e)
+1. View Kernel-Module
+2. Unload Driver(Force)
+3. Hidden Driver(Remove Link + Delete DriverObject)
+
+## Kernel

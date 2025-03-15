@@ -15,8 +15,8 @@ support Windows 10 - Windows11
 9. View/Remove ExCallback
 10. View IDT/GDT
 11. View UnloadDrivers
-12. Scan MSRHook(Support Scan MSR/Inline/VMM Hook(EPTHook/NPTHook))
-13. Scan IrpHook
+12. Scan/Unhook MSRHook(Support Scan MSR/Inline/VMM Hook(EPTHook/NPTHook))
+13. Scan/Unhook IrpHook
 14. View/Remove WFP Function/WFP Callout
 15. View/Delete/Protect File(Ignore Irp occupation/Handle occupation/Hard Link)
 16. System Kernel Monitor

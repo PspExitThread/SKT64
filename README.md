@@ -4,7 +4,7 @@ It's a completely free tool
 support Windows 10 - Windows11
 
 # Features
-1. View Process/Terminate Process/Set Process To System Critical Process/Suspend Process/Resume Process/Hide Process/Set Process PPL
+1. View Process/Terminate Process/Set Process To System Critical Process/Suspend Process/Resume Process/Hide Process/Set Process PPL/Inject Dll
 2. View Kernel Module/Unload Kernel Module/Hide Kernal Module
 3. View/Remove CreateProcessNotify/CreateThreadNotify/LoadimageNotify/RegistryCallback/BugCheckCallback/BugCheckReasonCallback/ShutdwomNotify/LastChanceShutdownNotify/FsChanceNotify/PowerSettingCallback/CoalesingCallback/PrioriryCallback/DebugPrintCallback
 4. View/Remove MiniFilter
@@ -33,6 +33,8 @@ support Windows 10 - Windows11
 
 
 # Undate Log
+### SKT64 v1.3
+Add Inject Dll
 ### SKT64 v1.2
 Add Remove IOCTL Hook
 ### SKT64 v1.1

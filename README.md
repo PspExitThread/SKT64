@@ -34,7 +34,8 @@ support Windows 10 - Windows11
 
 # Undate Log
 ### SKT64 v1.3
-Add Inject Dll
+1. Add Inject Dll
+2. Add Force Delete File(Advanced)
 ### SKT64 v1.2
 Add Remove IOCTL Hook
 ### SKT64 v1.1

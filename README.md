@@ -30,9 +30,15 @@ support Windows 10 - Windows11
 24. Disable ObRegistryCallbacks Callback
 25. Disable Driver Signature Enforcement(DSE)
 26. Fast Shutdown/REBOOT/BSOD
+27. Memory Editor
 
 
 # Undate Log
+### SKT64 v1.5
+1. optimize Memory Editor
+2. Add Modify Kernel-Module Image base
+### SKT64 v1.4
+1. Add Memory Editor
 ### SKT64 v1.3
 1. Add Inject Dll
 2. Add Force Delete File(Advanced)

@@ -4,8 +4,8 @@ It's a completely free tool
 support Windows 10 - Windows11
 
 # Features
-1. View Process/Terminate Process/Set Process To System Critical Process/Suspend Process/Resume Process/Hide Process/Set Process PPL/Inject Dll
-2. View Kernel Module/Unload Kernel Module/Hide Kernal Module
+1. View Process/Terminate Process/Set Process To System Critical Process/Suspend Process/Resume Process/Hide Process/Set Process PPL/Inject Dll/Viwe Process Thread/Termiante Process Thread/Suspend Process Thread/Resume Process Thread
+2. View Kernel Module/Unload Kernel Module/Hide Kernal Module/Modify Kernel Module Image base/View Kernel Module Major Functions
 3. View/Remove CreateProcessNotify/CreateThreadNotify/LoadimageNotify/RegistryCallback/BugCheckCallback/BugCheckReasonCallback/ShutdwomNotify/LastChanceShutdownNotify/FsChanceNotify/PowerSettingCallback/CoalesingCallback/PrioriryCallback/DebugPrintCallback
 4. View/Remove MiniFilter
 5. View/UnHook SSDT
@@ -34,6 +34,11 @@ support Windows 10 - Windows11
 
 
 # Undate Log
+### SKT64 v1.7
+1. Add View/Terminate/Suspend/Resume Process Thread
+2. Add View Kernel-Module Major Functions
+### SKT64 v1.6
+1. Fix Some Bugs
 ### SKT64 v1.5
 1. optimize Memory Editor
 2. Add Modify Kernel-Module Image base

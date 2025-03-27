@@ -34,6 +34,9 @@ support Windows 10 - Windows11
 
 
 # Undate Log
+### SKT64 v1.8
+1. Fix Some Bugs
+FILE HASH(SHA256): 70EDC2B1433E06DE5ED59884C9A3592CBB1C7C13414C287A42EDED13FC4F720A 
 ### SKT64 v1.7
 1. Add View/Terminate/Suspend/Resume Process Thread
 2. Add View Kernel-Module Major Functions

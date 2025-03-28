@@ -36,7 +36,7 @@ support Windows 10 - Windows11
 # Undate Log
 ### SKT64 v1.9
 1. Fixed IRQL_NOT_LESS_OR_EQUAL crashes
-2. Fixed Open Service Filed: 1060
+2. Fixed Open Service Failed: 1060
 ### SKT64 v1.8
 1. Fix Some Bugs
 ### SKT64 v1.7

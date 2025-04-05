@@ -8,7 +8,7 @@ support Windows 10 - Windows11
 2. View Kernel Module/Unload Kernel Module/Hide Kernal Module/Modify Kernel Module Image base/View Kernel Module Major Functions
 3. View/Remove CreateProcessNotify/CreateThreadNotify/LoadimageNotify/RegistryCallback/BugCheckCallback/BugCheckReasonCallback/ShutdwomNotify/LastChanceShutdownNotify/FsChanceNotify/PowerSettingCallback/CoalesingCallback/PrioriryCallback/DebugPrintCallback
 4. View/Remove MiniFilter
-5. View/UnHook SSDT
+5. View/UnHook SSDT/Shadow SSDT
 6. View IoTimer
 7. View Object-Type
 8. View/Terminate/Suspend/Resume System-Thread
@@ -34,6 +34,8 @@ support Windows 10 - Windows11
 
 
 # Undate Log
+### SKT64 v2.4
+1. Add Enum Shadow SSDT
 ### SKT64 v1.9 - v2.3
 1. Fix some bugs
 2. Add plugins
@@ -71,4 +73,4 @@ EMAIL： outlook_E269D89CDDC49D40$outlook.com（$change to @）
 
 
 # FILE HASH
-FILE HASH(SHA256): 1B76F900FCD7102621E9A55F5E3DE17D545E7556586687479EAC91D4CDE1E3D6
+FILE HASH(SHA256): F62D7C5D1D9AB9D68C3E5620E67BCF5CC9FCD99DE8B110EEEAF707843F6EF0C7

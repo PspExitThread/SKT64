@@ -34,6 +34,8 @@ support Windows 10 - Windows11
 
 
 # Undate Log
+### SKT64 v2.5
+1. Add Execute PatchGuard
 ### SKT64 v2.4
 1. Add Enum Shadow SSDT
 ### SKT64 v1.9 - v2.3

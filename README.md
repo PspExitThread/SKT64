@@ -6,7 +6,7 @@ support Windows 10 - Windows11
 # Features
 1. View Process/Terminate Process/Set Process To System Critical Process/Suspend Process/Resume Process/Hide Process/Set Process PPL/Inject Dll/Viwe Process Thread/Termiante Process Thread/Suspend Process Thread/Resume Process Thread
 2. View Kernel Module/Unload Kernel Module/Hide Kernal Module/Modify Kernel Module Image base/View Kernel Module Major Functions
-3. View/Remove CreateProcessNotify/CreateThreadNotify/LoadimageNotify/RegistryCallback/BugCheckCallback/BugCheckReasonCallback/ShutdwomNotify/LastChanceShutdownNotify/FsChanceNotify/PowerSettingCallback/CoalesingCallback/PrioriryCallback/DebugPrintCallback
+3. View/Remove CreateProcessNotify/CreateThreadNotify/LoadimageNotify/RegistryCallback/BugCheckCallback/BugCheckReasonCallback/ShutdwonNotify/LastChanceShutdownNotify/FsChanceNotify/PowerSettingCallback/CoalesingCallback/PrioriryCallback/DebugPrintCallback
 4. View/Remove MiniFilter
 5. View/UnHook SSDT/Shadow SSDT
 6. View IoTimer

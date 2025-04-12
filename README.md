@@ -76,7 +76,7 @@ The first public version
 2. Partial source code of SKT64
 3. The complete source code of the SKT64
 
-EMAIL： outlook_E269D89CDDC49D40$outlook.com（$change to @）
+EMAIL： kebugcheck2$outlook.com（$change to @）
 
 
 # FILE HASH

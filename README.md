@@ -31,9 +31,14 @@ support Windows 10 - Windows11
 25. Disable Driver Signature Enforcement(DSE)
 26. Fast Shutdown/REBOOT/BSOD
 27. Memory Editor
+28. Sandbox
 
 
 # Undate Log
+### SKT64 v2.6-v2.8
+1. Optimize the enumeration process
+2. Add Sandbox
+3. fix some bugs
 ### SKT64 v2.5
 1. Add Execute PatchGuard
 ### SKT64 v2.4

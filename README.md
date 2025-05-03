@@ -32,6 +32,7 @@ support Windows 10 - Windows11
 26. Fast Shutdown/REBOOT/BSOD
 27. Memory Editor
 28. Sandbox
+29. View HalDispatchTable/HalPrivateDispatchTable
 
 
 # Customized versions(Paid services)

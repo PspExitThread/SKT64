@@ -27,7 +27,7 @@ support Windows 10 - Windows11
 21. Lock Firmware
 22. Prohibit Create Process/Load Driver/Create File/Modify Registry/Modify Disk Boot Sector/Unload Driver
 23. Disable Thread/LoadImage/Module Notify
-24. Disable ObRegistryCallbacks Callback
+24. Disable ObRegisterCallbacks Callback
 25. Disable Driver Signature Enforcement(DSE)
 26. Fast Shutdown/REBOOT/BSOD
 27. Memory Editor

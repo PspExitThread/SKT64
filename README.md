@@ -92,6 +92,7 @@ It's a completely free tool
 - View IDT/GDT  
 - View UnloadDrivers  
 - View HalDispatchTable/HalPrivateDispatchTable
+- View PiDDbCacheTable
 
 
 # Screenshot

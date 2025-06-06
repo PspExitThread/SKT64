@@ -1,7 +1,7 @@
 # SKT64
-SKT64 is an Ark tool on the Windows platform
+- SKT64 is an Ark tool on the Windows platform
 It's a completely free tool
-support Windows 10 - Windows11
+- support Windows 10 - Windows11
 
 # Features  
 
@@ -44,8 +44,10 @@ support Windows 10 - Windows11
   - PriorityCallback  
   - DebugPrintCallback  
   - ExCallback  
+  - EmpCallback  
 - Disable ObRegisterCallbacks Callback  
 - Disable Thread/LoadImage/Module Notify
+- Disable CmRegisterCallback Callback
 
 ### Filter & Hook Management  
 - View/Remove MiniFilter  

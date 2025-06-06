@@ -61,7 +61,7 @@ It's a completely free tool
 - View/Remove WFP Callout  
 
 ### File System Operations  
-- View/Delete/Protect File (Ignores IRP occupation/Handle occupation/Hard Link)  
+- View/Delete/Protect/Rename/Move File (Ignores IRP occupation/Handle occupation/Hard Link)  
 
 ### System Monitoring & Control  
 - System Kernel Monitor  

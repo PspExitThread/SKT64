@@ -45,6 +45,7 @@ support Windows 10 - Windows11
   - DebugPrintCallback  
   - ExCallback  
 - Disable ObRegisterCallbacks Callback  
+- Disable Thread/LoadImage/Module Notify
 
 ### Filter & Hook Management  
 - View/Remove MiniFilter  
@@ -81,10 +82,8 @@ support Windows 10 - Windows11
   - Modify Registry  
   - Modify Disk Boot Sector  
   - Unload Driver  
-- Disable:  
-  - Thread/LoadImage/Module Notify  
 
-### Low-Level System Views  
+### Miscellaneous System Views  
 - View IoTimer  
 - View Object-Type  
 - View/Terminate/Suspend/Resume System-Thread  

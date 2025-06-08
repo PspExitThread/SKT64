@@ -70,7 +70,9 @@ It's a completely free tool
 - Ignore Driver Signature Enforcement (Load Driver)  
 - Fast Shutdown/REBOOT/BSOD  
 - Memory Editor  
-- Sandbox  
+- Sandbox
+- Taskmgr-Editor
+- Colorful BSOD  
 
 ### Firmware Operations  
 - Hot flash to firmware  

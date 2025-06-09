@@ -116,3 +116,6 @@ EMAIL： kebugcheck2$outlook.com（$change to @）
 
 # WARNING
 Do not use Disable PatchGuard on a physical machine!
+
+
+# Known but unfixed bugs

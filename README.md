@@ -104,13 +104,8 @@ It's a completely free tool
 <img src="https://github.com/PspExitThread/SKT64/blob/main/Screenshot/4.png"/>
 
 
-# Customized versions(Paid services)
-1. SKT64 without VMP version
-2. Partial source code of SKT64
-3. The complete source code of the SKT64
-4. WHQL Version
-
-EMAIL： kebugcheck2$outlook.com（$change to @）
+# EMAIL
+kebugcheck2$outlook.com（$change to @）
 
 
 

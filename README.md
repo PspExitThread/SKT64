@@ -111,6 +111,7 @@ kebugcheck2$outlook.com（$change to @）
 
 
 # WARNING
+## The author shall not be held liable for any losses incurred by your use of this software.
 Do not use Disable PatchGuard on a physical machine!
 
 

@@ -119,3 +119,4 @@ Do not use Disable PatchGuard on a physical machine!
 
 
 # Known but unfixed bugs
+1. "Refresh" is misspelled.

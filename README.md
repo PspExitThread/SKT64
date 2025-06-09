@@ -44,6 +44,7 @@ It's a completely free tool
   - PriorityCallback  
   - DebugPrintCallback  
   - ExCallback  
+  - PlugPlayNotify  
   - EmpCallback  
 - Disable ObRegisterCallbacks Callback  
 - Disable Thread/LoadImage/Module Notify

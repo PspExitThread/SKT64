@@ -1,6 +1,6 @@
 # SKT64
 - SKT64 是一个windows平台上的ARK(Anti-Rootkit)工具,拥有最高的RING0权限
-- 兼容windows10-windows11的系统(如果你在低版本点系统上运行SKT64将会得到UNSUPPORTED_PROCESSOR错误检查)
+- 兼容windows10-windows11的系统(如果你在低于15063版本的系统上运行SKT64将会得到UNSUPPORTED_PROCESSOR错误检查)
 
 # 功能  
 
@@ -49,70 +49,69 @@
 - 关闭 Thread/LoadImage/Module Notify
 - 关闭 CmRegisterCallback Callback
 
-### Filter & Hook Management  
-- View/Remove MiniFilter  
-- View/UnHook SSDT  
-- View/UnHook Shadow SSDT  
-- Scan/Unhook MSRHook (Supports MSR/Inline/VMM Hook including EPTHook/NPTHook)  
-- Scan/Unhook IrpHook  
+### 过滤 & 钩子 管理  
+- 查看/移除 MiniFilter  
+- 查看/移除 SSDT Hook
+- 查看/移除 Shadow SSDT Hoik
+- 扫描/移除 系统调用钩子 (支持扫描 msr钩子/内联钩子/虚拟化钩子(EPThook/NPThook))  
+- 查看/移除 Irp派遣函数钩子
 
-### Windows Filtering Platform (WFP)  
-- View/Remove WFP Function  
-- View/Remove WFP Callout  
+### Windows 过滤平台 (WFP)  
+- 查看 WFP Function  
+- 查看/移除 WFP Callout  
 
-### File System Operations  
-- View/Delete/Protect/Rename/Move File (Ignores IRP occupation/Handle occupation/Hard Link)  
+### 文件系统操作
+- 查看/删除/保护/重命名/移动 文件(无视 Irp占坑/句柄占用/硬链接 等)
 
-### System Monitoring & Control  
-- System Kernel Monitor  
-- VMM (Virtualization Technology)  
-- Disable PatchGuard  
-- Ignore Driver Signature Enforcement (Load Driver)  
-- Fast Shutdown/REBOOT/BSOD  
-- Memory Editor  
-- Sandbox
-- Taskmgr-Editor
-- Colorful BSOD  
+### 系统监控 & 控制
+- 系统内核监控
+- VMM (虚拟化技术)  
+- 完全关闭PatchGuard
+- 无视驱动签名强制加载驱动
+- 快速关机/快速重启/蓝屏
+- 内存编辑器
+- 沙盒
+- 修改任务管理器
+- 彩色的蓝屏
 
-### Firmware Operations  
-- Hot flash to firmware  
-- Lock Firmware  
+### 固件操作
+- 热刷写固件
+- 锁死固件
 
-### Security Restrictions  
-- Prohibit:  
-  - Create Process  
-  - Load Driver  
-  - Create File  
-  - Modify Registry  
-  - Modify Disk Boot Sector  
-  - Unload Driver  
+### 安全限制功能
+- 禁止:  
+  - 创建进程  
+  - 加载驱动  
+  - 创建文件  
+  - 修改注册表  
+  - 修改磁盘引导扇区
+  - 卸载驱动
 
-### Miscellaneous System Views  
-- View IoTimer  
-- View Object-Type  
-- View/Terminate/Suspend/Resume System-Thread  
-- View IDT/GDT  
-- View UnloadDrivers  
-- View HalDispatchTable/HalPrivateDispatchTable
-- View PiDDbCacheTable
+### 系统杂项功能查看
+- 查看 IoTimer
+- 查看 Object-Type
+- 查看/终止/挂起/恢复 系统线程 
+- 查看 IDT/GDT  
+- 查看 已卸载的驱动
+- 查看 HalDispatchTable/HalPrivateDispatchTable
+- 查看 PiDDbCacheTable
 
 
-# Screenshot
+# 截图
 <img src="https://github.com/PspExitThread/SKT64/blob/main/Screenshot/1.png"/>
 <img src="https://github.com/PspExitThread/SKT64/blob/main/Screenshot/2.png"/>
 <img src="https://github.com/PspExitThread/SKT64/blob/main/Screenshot/3.png"/>
 <img src="https://github.com/PspExitThread/SKT64/blob/main/Screenshot/4.png"/>
 
 
-# EMAIL
+# 联系方式
 kebugcheck2$outlook.com（$change to @）
 
 
 
-# WARNING
-## The author shall not be held liable for any losses incurred by your use of this software.
-Do not use Disable PatchGuard on a physical machine!
+# 警告
+## 使用本软件给您造成的所有损失作者不承担任何责任!
 
 
-# Known but unfixed bugs
-1. "Refresh" is misspelled.
+# 已知但未修复的bug
+1. "Refresh" 拼写错误.

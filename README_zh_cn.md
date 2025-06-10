@@ -105,7 +105,7 @@
 
 
 # 联系方式
-kebugcheck2$outlook.com（$change to @）
+kebugcheck2$outlook.com（$改为 @）
 
 
 

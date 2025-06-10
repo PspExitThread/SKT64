@@ -3,7 +3,7 @@
 It's a completely free tool
 - support Windows 10 - Windows11
 
-<a href='./README_zh_cn.md'>简体中文</a>
+<a href='./README_zh_cn.md'>简体中文</a> | <a href='./README_zh_hant.md'>繁体中文</a>
 
 # Features  
 

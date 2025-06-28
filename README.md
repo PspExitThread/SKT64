@@ -66,10 +66,12 @@ It's a completely free tool
 ### File System Operations  
 - View/Delete/Protect/Rename/Move File/Copy File (Ignores IRP occupation/Handle occupation/Hard Link)  
 - Physical Disk Parser
+- NTFS DIRECT CONTROL（Extreme file deletion）
 
 ### System Monitoring & Control  
 - System Kernel Monitor  
-- VMM (Virtualization Technology)  
+- VMM (Virtualization Technology)
+- IOMMU(Anti-DMA Read Write MEMORY)
 - Disable PatchGuard  
 - Ignore Driver Signature Enforcement (Load Driver)  
 - Fast Shutdown/REBOOT/BSOD  

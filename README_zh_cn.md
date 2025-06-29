@@ -63,7 +63,7 @@
 ### 文件系统操作
 - 查看/删除/保护/重命名/移动/复制 文件(无视 Irp占坑/句柄占用/硬链接 等)
 - 物理磁盘解析 
-- NTFS DIRECT CONTROL(极端删除文件(无视 Irp占坑/双重Irp占坑(Irp占坑后发送删除请求会导致文件无法打开)/hardlink/NTFSFSDHook/句柄占用/MiniFilter/对象回调/隐藏文件))
+- NTFS DIRECT CONTROL(极端删除文件(无视 Irp占坑/双重Irp占坑(Irp占坑后发送删除请求会导致文件无法打开)/hardlink/NTFSFSDHook/句柄占用/MiniFilter/对象回调/隐藏文件/文件对象劫持/重定向/安全描述符修改/文件属性锁定/文件只读 等……))
 
 ### 系统监控 & 控制
 - 系统内核监控

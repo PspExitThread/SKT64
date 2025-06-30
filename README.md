@@ -71,7 +71,7 @@ It's a completely free tool
 ### System Monitoring & Control  
 - System Kernel Monitor  
 - VMM (Virtualization Technology)
-- IOMMU(Anti-DMA Read Write MEMORY)
+- IOMMU-SLAT(Anti-DMA Read Write MEMORY)
 - Disable PatchGuard  
 - Ignore Driver Signature Enforcement (Load Driver)  
 - Fast Shutdown/REBOOT/BSOD  

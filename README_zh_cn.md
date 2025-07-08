@@ -108,7 +108,8 @@
 
 
 # 联系方式
-kebugcheck2$outlook.com（$改为 @）
+### 如果你想获取SKT64的源代码请联系我
+### 邮箱: kebugcheck2$outlook.com（$改为 @）
 
 
 

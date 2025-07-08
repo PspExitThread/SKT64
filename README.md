@@ -119,7 +119,3 @@ It's a completely free tool
 # WARNING
 ## The author shall not be held liable for any losses incurred by your use of this software.
 Do not use Disable PatchGuard on a physical machine!
-
-
-# Known but unfixed bugs
-1. "Refresh" is misspelled.

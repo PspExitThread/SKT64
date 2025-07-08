@@ -112,7 +112,7 @@ It's a completely free tool
 
 # EMAIL
 ### If you want to get the source code of SKT64, please contact me
-## kebugcheck2$outlook.com（$change to @）
+## EMAIL: kebugcheck2$outlook.com（$change to @）
 
 
 

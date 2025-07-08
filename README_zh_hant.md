@@ -1,6 +1,6 @@
 # SKT64  
 - SKT64 是一個Windows平台上的ARK(Anti-Rootkit)工具，擁有最高的RING0權限  
-- 相容Windows10至Windows11系統（若在低於15063版本的系統上運行SKT64，將會得到UNSUPPORTED_PROCESSOR錯誤檢查）  
+- 相容Windows10至Windows11系統(若在低於15063版本的系統上運行SKT64，將會得到UNSUPPORTED_PROCESSOR錯誤檢查)(15063 - 27891)
 
 # 功能  
 

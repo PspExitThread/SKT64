@@ -1,4 +1,7 @@
 # SKT64
+
+# For some reason, the source code of SKT64 will be refactored and is expected to take 15 days(2025.7.16-2025.8.1)
+
 - SKT64 is an Ark tool on the Windows platform
 It's a completely free tool
 - support Windows 10 - Windows 11(15063 - 27891)

@@ -79,7 +79,9 @@ It's a completely free tool
 - Memory Editor  
 - Sandbox
 - Taskmgr-Editor
-- Colorful BSOD  
+- Colorful BSOD
+- Hide File
+- Restart the restoration
 
 ### Firmware Operations  
 - Hot flash to firmware  

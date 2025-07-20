@@ -122,3 +122,11 @@ It's a completely free tool
 # WARNING
 ## The author shall not be held liable for any losses incurred by your use of this software.
 Do not use Disable PatchGuard on a physical machine!
+
+
+# Update log
+- latest version: 7.2
+1. Fixed some known bugs
+2. Added the ability to hide files
+3. Added the ability to Restart the restoration
+4. and other content

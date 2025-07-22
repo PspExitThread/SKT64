@@ -125,8 +125,6 @@ Do not use Disable PatchGuard on a physical machine!
 
 
 # Update log
-- latest version: 7.2
+- latest version: 7.5
 1. Fixed some known bugs
-2. Added the ability to hide files
-3. Added the ability to Restart the restoration
-4. and other content
+2. and other content

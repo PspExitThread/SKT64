@@ -85,7 +85,12 @@ It's a completely free tool
 
 ### Firmware Operations  
 - Hot flash to firmware  
-- Lock Firmware  
+- Lock Firmware
+
+### Disk Operations
+- Physcial Disk Control
+- Low Level Format Disk
+- Disk Editor
 
 ### Security Restrictions  
 - Prohibit:  
@@ -125,6 +130,10 @@ Do not use Disable PatchGuard on a physical machine!
 
 
 # Update log
-- latest version: 7.5
+- latest version: 8.5
 1. Fixed some known bugs
-2. and other content
+2. Add Physcial Disk manage
+3. Add Low Level Format Disk
+4. Add Disk Editor
+5. optimize Enum Process
+6. and other content...

@@ -17,7 +17,10 @@ It's a completely free tool
   - Resume Process  
   - Hide Process  
   - Set Process PPL (Protected Process Light)  
-  - Inject DLL  
+  - Inject DLL
+  - View/Remove Hot Key
+  - View/Close EXIST Handle
+  - View KernelCallbackTable
 - **Thread Operations**  
   - View Process Threads  
   - Terminate Process Thread  
@@ -82,6 +85,7 @@ It's a completely free tool
 - Colorful BSOD
 - Hide File
 - Restart the restoration
+- DYNAMIC Enable/Disable Local Kernel Debugger
 
 ### Firmware Operations  
 - Hot flash to firmware  
@@ -130,10 +134,8 @@ Do not use Disable PatchGuard on a physical machine!
 
 
 # Update log
-- latest version: 8.5
+- latest version: 9.5
 1. Fixed some known bugs
-2. Add Physcial Disk manage
-3. Add Low Level Format Disk
-4. Add Disk Editor
-5. optimize Enum Process
+2. Add View Hotkey/EXIST Handle/KernelCallbackTable
+3. Add DYNAMIC Enable/Disble Local Kernel Debugger
 6. and other content...

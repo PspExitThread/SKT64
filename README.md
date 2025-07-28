@@ -137,5 +137,5 @@ Do not use Disable PatchGuard on a physical machine!
 - latest version: 9.5
 1. Fixed some known bugs
 2. Add View Hotkey/EXIST Handle/KernelCallbackTable
-3. Add DYNAMIC Enable/Disble Local Kernel Debugger
+3. Add DYNAMIC Enable/Disable Local Kernel Debugger
 6. and other content...

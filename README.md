@@ -134,5 +134,5 @@ Do not use Disable PatchGuard on a physical machine!
 
 
 # Update log
-- latest version: 10.6
+- latest version: 10.7
 

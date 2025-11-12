@@ -133,6 +133,3 @@ It's a completely free tool
 Do not use Disable PatchGuard on a physical machine!
 
 
-# Update log
-- latest version: 11.0
-

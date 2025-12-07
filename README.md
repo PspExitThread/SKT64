@@ -21,6 +21,7 @@ It's a completely free tool
   - View/Remove Hot Key
   - View/Close EXIST Handle
   - View KernelCallbackTable
+  - View Window
 - **Thread Operations**  
   - View Process Threads  
   - Terminate Process Thread  

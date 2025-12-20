@@ -2,7 +2,7 @@
 
 - SKT64 is an Ark tool on the Windows platform
 It's a completely free tool
-- support Windows 10 - Windows 11(15063 - 28000)
+- support Windows 10 - Windows 11(15063 - 28020)
 
 <a href='./README_zh_cn.md'>简体中文</a>
 

@@ -53,7 +53,7 @@
 ### 过滤 & 钩子 管理  
 - 查看/移除 MiniFilter  
 - 查看/移除 SSDT Hook
-- 查看/移除 Shadow SSDT Hoik
+- 查看/移除 Shadow SSDT Hook
 - 扫描/移除 系统调用钩子 (支持扫描 msr钩子/内联钩子/虚拟化钩子(EPThook/NPThook))  
 - 查看/移除 Irp派遣函数钩子
 

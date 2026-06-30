@@ -87,7 +87,7 @@ The NextGen Kernel Management subsystem provides deep introspection and manipula
 | Terminate Process | ✅ |
 | Force Terminate Process | ✅ |
 | Handle Inspection | ❌ (Planned) |
-| Memory Operations | ❌ (Planned) |
+| More... | Planning |
 
 ---
 
